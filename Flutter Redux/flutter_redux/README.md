@@ -1,8 +1,3 @@
 # flutter_redux
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Flutter Starter kit with latest redux packages integrated and tests setup
