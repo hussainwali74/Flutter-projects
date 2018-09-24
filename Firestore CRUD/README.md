@@ -1,8 +1,7 @@
-# hello_world
+# FireStore Flutter CRUD
 
-A new Flutter project.
+A simple app demonstrating the integration of firestore in a Flutter application. 
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+download this folder and run it on any android or ios emulator, everything else is already set up.
